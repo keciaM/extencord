@@ -1,0 +1,6 @@
+[submodule "bot-core"]
+	path = bot-core
+	url = https://github.com/keciaM/SimpleDiscordBot-WebhookManager.git
+[submodule "gtfs-addon"]
+	path = gtfs-addon
+	url = https://github.com/keciaM/pyrkowy-gtfs-rt.git
